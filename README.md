@@ -4,10 +4,14 @@
 Hi there 👋,
 I'm Abdulla Al Mahfuz, an accomplished web developer with a comprehensive skill set. My journey has equipped me with proficiency in a wide range of technologies and frameworks, including:
 
-Front-End: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux, TypeScript, Next.js
-Back-End: Node.js, Express.js, Mongoose, Firebase
-Databases: MongoDB, SQL, PostgreSQL
-ORMs & Tools: Prisma
+Front-End:
+HTML 🌐, CSS 🎨, Bootstrap ⚡, Tailwind CSS 💨, JavaScript 🔥, React.js ⚛️, Redux 🔄, TypeScript 🔡, Next.js 🚀
+Back-End:
+Node.js 🖧, Express.js 🛠️, Mongoose 🐍, Firebase ☁️
+Databases:
+MongoDB 📦, SQL 🗃️, PostgreSQL 🐘
+ORMs & Tools:
+Prisma 🔗
 With a strong foundation in HTML, CSS, and Bootstrap, I excel at crafting visually stunning and responsive websites. My expertise in Tailwind CSS enables me to create highly efficient, customizable user interfaces. Leveraging JavaScript and TypeScript, I bring interactivity and dynamic functionality to deliver engaging user experiences.
 
 I am highly skilled in React.js and Next.js, which empowers me to build modern, scalable web applications. On the back-end, I utilize Node.js, Express.js, and Mongoose to develop robust server-side applications, and I am proficient in Firebase for cloud-based solutions.
