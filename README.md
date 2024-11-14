@@ -1,6 +1,6 @@
 ### Hi there 👋, Abdullah Al Mahfuz
 #### Web Development
-![Web Development](https://www.facebook.com/photo?fbid=836628034705735&set=a.112046163830596)
+![Web Development]([https://www.facebook.com/photo?fbid=836628034705735&set=a.112046163830596](https://i.postimg.cc/TwP44cVW/web-development1.png))
 
 I'm Abdulla Al Mahfuz, an accomplished web developer with a comprehensive skill set. My journey has equipped me with proficiency in a wide range of technologies and frameworks, including HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, Firebase, MongoDB, and more. With a strong foundation in HTML, CSS, and Bootstrap, I excel at crafting visually stunning and responsive websites. Additionally, my expertise in Tailwind CSS allows me to create highly efficient and customizable user interfaces. Leveraging JavaScript, I add interactivity and dynamic functionality to deliver engaging user experiences. I am well-versed in React.js, empowering me to build modern and scalable web applications. On the back-end, my proficiency in Node.js and Express.js enables the development of robust server-side applications. When it comes to data storage and management, I am skilled in utilizing Firebase, a cloud-based platform, as well as MongoDB, a popular NoSQL database. Driven by my passion for continuous growth, I remain updated with the latest industry trends and eagerly embrace emerging technologies. With this knowledge, I'm committed to creating innovative and captivating web solutions that meet and exceed client expectations.
 
