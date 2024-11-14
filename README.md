@@ -1,9 +1,21 @@
 
 ![](https://i.postimg.cc/yYRCc9Fy/linkedin-final-banner.png)
 
-I'm Abdulla Al Mahfuz, an accomplished web developer with a comprehensive skill set. My journey has equipped me with proficiency in a wide range of technologies and frameworks, including HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, Firebase, MongoDB, and more. With a strong foundation in HTML, CSS, and Bootstrap, I excel at crafting visually stunning and responsive websites. Additionally, my expertise in Tailwind CSS allows me to create highly efficient and customizable user interfaces. Leveraging JavaScript, I add interactivity and dynamic functionality to deliver engaging user experiences. I am well-versed in React.js, empowering me to build modern and scalable web applications. On the back-end, my proficiency in Node.js and Express.js enables the development of robust server-side applications. When it comes to data storage and management, I am skilled in utilizing Firebase, a cloud-based platform, as well as MongoDB, a popular NoSQL database. Driven by my passion for continuous growth, I remain updated with the latest industry trends and eagerly embrace emerging technologies. With this knowledge, I'm committed to creating innovative and captivating web solutions that meet and exceed client expectations.
+Hi there 👋,
+I'm Abdulla Al Mahfuz, an accomplished web developer with a comprehensive skill set. My journey has equipped me with proficiency in a wide range of technologies and frameworks, including:
 
-Skills: HTML/CSS/BOOTSTRAP/TAILWIND/JAVASCRIPT/REACT/FIREBASE/NODE/EXPRESS/MONGODB
+Front-End: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux, TypeScript, Next.js
+Back-End: Node.js, Express.js, Mongoose, Firebase
+Databases: MongoDB, SQL, PostgreSQL
+ORMs & Tools: Prisma
+With a strong foundation in HTML, CSS, and Bootstrap, I excel at crafting visually stunning and responsive websites. My expertise in Tailwind CSS enables me to create highly efficient, customizable user interfaces. Leveraging JavaScript and TypeScript, I bring interactivity and dynamic functionality to deliver engaging user experiences.
+
+I am highly skilled in React.js and Next.js, which empowers me to build modern, scalable web applications. On the back-end, I utilize Node.js, Express.js, and Mongoose to develop robust server-side applications, and I am proficient in Firebase for cloud-based solutions.
+
+For data storage and management, I have hands-on experience with both NoSQL databases like MongoDB and relational databases such as SQL and PostgreSQL, using Prisma as an ORM to streamline database interactions.
+
+Driven by my passion for continuous growth, I remain updated with the latest industry trends and eagerly embrace emerging technologies. I am committed to creating innovative and captivating web solutions that meet and exceed client expectations.
+
 
 - 🔭 I’m currently working on Personal Projects 
 - 🌱 I’m currently learning more about backend development 
