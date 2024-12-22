@@ -57,6 +57,18 @@
 
 ---
 
+## 🚀 **Best Projects**
+
+### 1. **[E-Commerce Platform](https://github.com/mahfuzctg/e-commerce-platform)**
+   - **Description**: A fully responsive, dynamic e-commerce platform built using React.js, Redux, and Node.js. Features include product filtering, user authentication, and a secure payment gateway.
+
+### 2. **[Task Management App](https://github.com/mahfuzctg/task-management-app)**
+   - **Description**: A task management application that helps teams stay organized. Built with Next.js, MongoDB, and Firebase, it includes real-time notifications and project collaboration tools.
+
+### 3. **[Blog Website](https://github.com/mahfuzctg/blog-website)**
+   - **Description**: A scalable blogging platform with rich text editing and user commenting functionality. Developed with React.js, TypeScript, and Express.js for seamless back-end management.
+---
+
 ## 🎯 **Badges & Metrics**
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
