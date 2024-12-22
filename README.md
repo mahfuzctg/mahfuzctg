@@ -12,20 +12,7 @@
 
 ## 💻 **Technical Skills**
 
-### 🖌️ **Front-End**
-- **HTML** 🌐, **CSS** 🎨, **Bootstrap** ⚡, **Tailwind CSS** 💨  
-- **JavaScript** 🔥, **React.js** ⚛️, **Redux** 🔄  
-- **TypeScript** 🔡, **Next.js** 🚀  
-
-### ⚙️ **Back-End**
-- **Node.js** 🖧, **Express.js** 🛠️, **Mongoose** 🐍  
-- **Firebase** ☁️  
-
-### 🗂️ **Databases**
-- **MongoDB** 📦, **SQL** 🗃️, **PostgreSQL** 🐘  
-
-### 📌 **ORMs & Tools**
-- **Prisma** 🔗  
+- **HTML** 🌐, **CSS** 🎨, **Bootstrap** ⚡, **Tailwind CSS** 💨 **JavaScript** 🔥, **React.js** ⚛️, **Redux** 🔄 **TypeScript** 🔡, **Next.js** 🚀 **Node.js** 🖧, **Express.js** 🛠️, **Mongoose** 🐍 **Firebase** ☁️ **MongoDB** 📦, **SQL** 🗃️, **PostgreSQL** 🐘 **Prisma** 🔗  
 
 ---
 
