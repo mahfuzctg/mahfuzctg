@@ -30,8 +30,8 @@
 
 ## 🚀 **Best Projects**
 
-### 1. **[E-Commerce Platform](https://github.com/mahfuzctg/e-commerce-platform)**
-   - **Description**: A fully responsive, dynamic e-commerce platform built using React.js, Redux, and Node.js. Features include product filtering, user authentication, and a secure payment gateway.
+### 1. **[Tricks-Hub](https://tricks-hub-client.vercel.app)**
+   - **Description**: Tricks Hub is a tech-focused web application built with Next.js, designed for tech enthusiasts to share and discover tech tips, tricks, and solutions. Users can interact with content, upvote insights, and access exclusive features.
 
 ### 2. **[Task Management App](https://github.com/mahfuzctg/task-management-app)**
    - **Description**: A task management application that helps teams stay organized. Built with Next.js, MongoDB, and Firebase, it includes real-time notifications and project collaboration tools.
