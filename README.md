@@ -87,9 +87,23 @@
 ---
 
 ## 📬 **How to Reach Me**
-- **Email**: [aamahfuz.pro@gmail.com](mailto:aamahfuz.pro@gmail.com)  
-- **Portfolio**: [aamahfuz.netlify.app](https://aamahfuz.netlify.app/)  
-- **LinkedIn**: [Abdulla Al Mahfuz](https://www.linkedin.com/in/abdullah-al-mahfuz-ctg-a01482280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdullah-al-mahfuz-ctg-a01482280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="mahfuzctg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/aamahfuz.ctg?rdid=aF7D3G6435zucHsr&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19VM2Cgobg%2F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+###
 
 ---
 
