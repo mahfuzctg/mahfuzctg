@@ -9,7 +9,7 @@
 ---
 
 <div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 10px; border-radius: 10px;">
-  🌟 Welcome to my GitHub! I'm an accomplished **web developer** passionate about crafting **beautiful**, **efficient**, and **scalable** web applications.
+  🌟 Welcome to my GitHub! I’m a passionate web developer committed to creating innovative, scalable, and user-focused web applications that empower businesses and users alike. My mission is to develop cutting-edge digital solutions that enhance user experiences and drive business growth. With a focus on efficiency and elegance, my vision is to contribute to the future of web development by continuously learning and building impactful projects that make the web a better place.
 </div>
 
 ---
