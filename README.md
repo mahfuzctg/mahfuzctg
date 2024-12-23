@@ -33,11 +33,11 @@
 ### 1. **[Tricks-Hub](https://tricks-hub-client.vercel.app)**
    - **Description**: Tricks Hub is a tech-focused web application built with Next.js, designed for tech enthusiasts to share and discover tech tips, tricks, and solutions. Users can interact with content, upvote insights, and access exclusive features.
 
-### 2. **[Task Management App](https://github.com/mahfuzctg/task-management-app)**
-   - **Description**: A task management application that helps teams stay organized. Built with Next.js, MongoDB, and Firebase, it includes real-time notifications and project collaboration tools.
+### 2. **[Car-Rental-Reservation](https://car-rental-reservation.netlify.app)**
+   - **Description**: The Car Rental Reservation System offers an intuitive platform for customers to browse and book vehicles, while providing administrators with powerful tools to manage inventory and reservations. It ensures a seamless and efficient experience for both users and administrators.
 
-### 3. **[Blog Website](https://github.com/mahfuzctg/blog-website)**
-   - **Description**: A scalable blogging platform with rich text editing and user commenting functionality. Developed with React.js, TypeScript, and Express.js for seamless back-end management.
+### 3. **[Camper-Shop](https://camper-shop-frontend.netlify.app)**
+   - **Description**: Campers Shop is an e-commerce website tailored for camping enthusiasts, offering a range of camping gear and accessories. This project features a clean, user-friendly interface and incorporates various functionalities to enhance the shopping experience.
      
 ---
 
