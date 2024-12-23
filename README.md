@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 10px; border-radius: 10px;">
+<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 20px; border-radius: 10px;">
   🌟 Welcome to my GitHub! I’m a passionate web developer committed to creating innovative, scalable, and user-focused web applications that empower businesses and users alike. My mission is to develop cutting-edge digital solutions that enhance user experiences and drive business growth. With a focus on efficiency and elegance, my vision is to contribute to the future of web development by continuously learning and building impactful projects that make the web a better place.
 </div>
 
@@ -63,9 +63,7 @@
 
 ## 📊 **GitHub Stats**
 
-<div align="center" style="background: linear-gradient(to right, #36d1dc, #5b86e5); padding: 20px; border-radius: 10px;">
-  <h2>🌟 Activity Overview</h2>
-  <br>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzctg&layout=compact&theme=radical" alt="Top Languages">
   </a>
