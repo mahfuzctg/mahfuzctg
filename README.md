@@ -1,12 +1,16 @@
-![](https://i.postimg.cc/yYRCc9Fy/linkedin-final-banner.png)
+<div align="center">
+  <img src="https://i.postimg.cc/yYRCc9Fy/linkedin-final-banner.png" alt="LinkedIn Banner" width="100%">
+</div>
 
 # Hi there 👋  
 ### I'm Abdulla Al Mahfuz  
-> 🔗 **Web Developer | Lifelong Learner**  
+> 🔗 **Web Developer | Lifelong Learner**
 
 ---
 
-🌟 Welcome to my GitHub! I'm an accomplished **web developer** passionate about crafting **beautiful**, **efficient**, and **scalable** web applications. Here's a quick overview of my skill set:
+<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 10px; border-radius: 10px;">
+  🌟 Welcome to my GitHub! I'm an accomplished **web developer** passionate about crafting **beautiful**, **efficient**, and **scalable** web applications.
+</div>
 
 ---
 
@@ -53,22 +57,27 @@
 ## 📬 **How to Reach Me**
 - **Email**: [aamahfuz.pro@gmail.com](mailto:aamahfuz.pro@gmail.com)  
 - **Portfolio**: [aamahfuz.netlify.app](https://aamahfuz.netlify.app/)  
-- **LinkedIn**: [Abdulla Al Mahfuz](https://www.linkedin.com/in/abdullah-al-mahfuz-ctg-a01482280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
+- **LinkedIn**: [Abdulla Al Mahfuz](https://www.linkedin.com/in/abdullah-al-mahfuz-ctg-a01482280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
 ## 📊 **GitHub Stats**
-### 🏆 Achievements:
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahfuzctg&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🌟 Activity Overview:
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzctg&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzctg&show_icons=true&theme=radical)  
-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=mahfuzctg&theme=radical)  
-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahfuzctg&theme=react-dark&area=true)
+<div align="center" style="background: linear-gradient(to right, #36d1dc, #5b86e5); padding: 20px; border-radius: 10px;">
+  <h2>🌟 Activity Overview</h2>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzctg&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfuzctg&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=mahfuzctg&theme=radical" alt="GitHub Streak">
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuzctg&theme=react-dark&area=true" alt="Activity Graph">
+</div>
 
 ---
-
 
 ## 🎯 **Badges & Metrics**
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
