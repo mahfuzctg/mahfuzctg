@@ -4,7 +4,7 @@
 
 # Hi there 👋  
 ### I'm Abdulla Al Mahfuz  
-> 🔗 **Web Developer 👨‍💻 | Lifelong Learner** 📚 | Code Lover 💻❤
+> 🔗 **Web Developer 👨‍💻 | Lifelong Learner** 📚 | Error Solver 🛠️ | Code Lover 💻❤ 
 
 ---
 
@@ -82,7 +82,8 @@
 ## 💡 **Ask Me About**
 - Web Development 🖥️  
 - Front-End & Back-End Technologies 💻  
-- Building Scalable Web Applications 🚀  
+- Building Scalable Web Applications 🚀
+- Bug Fixing & Error Solving 🐛🔧 
 
 ---
 
