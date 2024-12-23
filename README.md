@@ -4,7 +4,7 @@
 
 # Hi there 👋  
 ### I'm Abdulla Al Mahfuz  
-> 🔗 **Web Developer 👨‍💻 | Lifelong Learner** 📚 | Error Solver 🛠️ | Code Lover 💻❤ 
+> 🔗 **Web Developer 👨‍💻 | Lifelong Learner 📚 | Error Solver 🛠️ | Code Lover 💻❤**
 
 ---
 
