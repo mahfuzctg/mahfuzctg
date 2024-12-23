@@ -41,7 +41,7 @@
 ## 📬 **How to Reach Me**
 - **Email**: [aamahfuz.pro@gmail.com](mailto:aamahfuz.pro@gmail.com)  
 - **Portfolio**: [aamahfuz.netlify.app](https://aamahfuz.netlify.app/)  
-- **LinkedIn**: [Abdulla Al Mahfuz](https://www.linkedin.com/in/AbdullahAlMahfuz/)  
+- **LinkedIn**: [Abdulla Al Mahfuz](https://www.linkedin.com/in/abdullah-al-mahfuz-ctg-a01482280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
 
 ---
 
