@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/yYRCc9Fy/linkedin-final-banner.png" alt="LinkedIn Banner" width="100%">
+  <img src="https://i.postimg.cc/63WjMQBc/banner-cover-v2.png" alt="LinkedIn Banner" width="100%">
 </div>
 
 # Hi there 👋  
